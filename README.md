@@ -2,7 +2,6 @@
 # ⚠️ WIP ⚠️ <br>
 Capture the information of sales leads.
 
-
 # Current Goals
   ### Server
   - [ ] Add a database (DB)
