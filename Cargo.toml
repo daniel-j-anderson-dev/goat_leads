@@ -1,0 +1,6 @@
+[workspace]
+resolver = "2"
+members = [ 
+    "client", # lead data entry and communication with server
+    "server", # database and admin portal
+]
