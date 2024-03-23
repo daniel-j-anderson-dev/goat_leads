@@ -1,6 +1,7 @@
 [workspace]
 resolver = "2"
 members = [ 
+    "shared", # functions and types shared between client and server 
     "client", # lead data entry and communication with server
     "server", # database and admin portal
 ]
